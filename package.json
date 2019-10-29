@@ -2,7 +2,7 @@
   "name": "resume",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vishnus.info",
+  "homepage": "vishnus.info",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.11.0",
