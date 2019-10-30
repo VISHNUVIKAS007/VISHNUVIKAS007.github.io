@@ -2,7 +2,7 @@
   "name": "resume",
   "version": "0.1.0",
   "private": true,
-  "homepage": "vishnus.info",
+  "homepage": "https://VISHNUVIKAS007.github.io/resume",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.11.0",
@@ -10,10 +10,10 @@
     "react-scripts": "3.2.0"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b master -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
